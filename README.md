@@ -19,13 +19,13 @@
 
 📈 My GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Bash009&show_icons=true&theme=gotham" alt="Stats here!" />
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Bash009&show_icons=true&theme=react&locale=en&layout=demo" alt="My Streak" /></p>
-
-Find me on
-<a href="https://twitter.com/BasharAli101">
+<p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Bash009&show_icons=true&theme=gotham" alt="Stats here!" width="40%"
+ />
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Bash009&show_icons=true&theme=gotham&locale=en&layout=demo" alt="My Streak" width="40%"/></p>
+</p>
+Find me on -<a href="https://twitter.com/BasharAli101">
 <img align="center" alt="Twitter" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/sayyed-bashar-ali-804915192/">
+</a> -<a href="https://www.linkedin.com/in/sayyed-bashar-ali-804915192/">
 <img align="center" alt="LinkedIn" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
