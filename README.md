@@ -20,9 +20,9 @@
 📈 My GitHub Stats
 
 <p>
-<img src="https://github-readme-stats.vercel.app/api?username=Bash009&show_icons=true&theme=gotham" alt="Stats here!" width="50%"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Bash009&show_icons=true&theme=gotham" alt="Stats here!" width="50%"/>
 &emsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Bash009&show_icons=true&theme=gotham&locale=en&layout=demo" alt="My Streak" width="50%"/>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Bash009&show_icons=true&theme=gotham&locale=en&layout=demo" alt="My Streak" width="50%"/>
 </p>
 Find me on <a href="https://twitter.com/BasharAli101">
 <img align="center" alt="Twitter" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
