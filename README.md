@@ -1,4 +1,4 @@
-# Hi there, welcome to my profile.👋
+# Hi there, welcome to my profile.<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 - I am Sayyed Bashar Ali
 - 🎓 I am in my senior year at IIIT Naya Raipur
@@ -20,3 +20,4 @@
 📈 My GitHub Stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Bash009&show_icons=true&theme=gotham" alt="Stats here!" />
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Bash009&show_icons=true&theme=react&locale=en&layout=demo" alt="My Streak" /></p>
